@@ -1,4 +1,4 @@
-package com.praktikum.testing.otomation.utils;
+package com.praktikum.testing.otomation.pages.utils;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package com.praktikum.testing.otomation.utils;
+package com.praktikum.testing.otomation.pages.utils;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;

@@ -1,6 +1,7 @@
 package com.praktikum.testing.otomation.test.demo;
 
-import com.praktikum.testing.otomation.utils.ScreenshotUtil;
+
+import com.praktikum.testing.otomation.pages.utils.ScreenshotUtil;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;

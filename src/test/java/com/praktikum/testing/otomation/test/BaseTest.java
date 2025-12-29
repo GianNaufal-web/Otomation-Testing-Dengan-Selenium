@@ -3,8 +3,10 @@ package com.praktikum.testing.otomation.test;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
-import com.praktikum.testing.otomation.utils.ExtentReportManager;
-import com.praktikum.testing.otomation.utils.ScreenshotUtil;
+import com.praktikum.testing.otomation.pages.utils.ExtentReportManager;
+import com.praktikum.testing.otomation.pages.utils.ScreenshotUtil;
+
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
